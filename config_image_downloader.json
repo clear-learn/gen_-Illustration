@@ -1,0 +1,4 @@
+{
+    "output_img_folder": "images",
+    "easyocr_languages": ["ko", "ja", "ch_sim", "ch_tra", "en"]
+}

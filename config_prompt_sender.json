@@ -1,0 +1,9 @@
+{
+    "gpt_model_name": "gpt-4-turbo",
+    "feature_temperature": 0.2,
+    "prompt_temperature": 0.8,
+    "dry_temperature": 0.2,
+    "common_temperature": 0.75,
+    "number_of_prompts": 4,
+    "number_of_retries": 5
+}
